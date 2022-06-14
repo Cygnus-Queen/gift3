@@ -411,10 +411,6 @@ class AppComponent extends React.Component {
           <Player/>
         </div>
 
-        {/* 源代码组件 */}
-        <div className="source-area">
-          源代码：<a href="https://github.com/nnngu/MusicPhoto" target="_blank">https://github.com/nnngu/MusicPhoto</a>
-        </div>
 
       </section>
     );
